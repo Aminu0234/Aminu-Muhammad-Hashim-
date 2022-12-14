@@ -1,2 +1,2 @@
-# Aminu-Muhammad-Hashim-
-Calistus agwilo NITDA Blockchain scholarship 
+nitda-blockchain-scholarship
+Course material for NITDA Blockchain-scholarship 
